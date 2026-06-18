@@ -39,7 +39,7 @@ location    : Agartala, Tripura, India
 currently   :
   - Building DigiToolzBox — an AI-powered multi-tool SaaS for marketers
   - Running Digi Up-Lift Agency — serving SMBs & startups across Northeast India
-  - Junior Software Developer @ TRTC Bamboo Park (PMKVY 4.0)
+  - ENROLLED: Junior Software Developer @ TRTC Bamboo Park (PMKVY 4.0)
 ```
 
 ---
