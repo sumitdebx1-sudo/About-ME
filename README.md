@@ -2,7 +2,7 @@
 
 # Hey, I'm Sumit Deb 👋
 
-**CEO & Full Stack Developer · founder @ DIGI Toolz Box**
+**CEO & Full Stack Developer · Founder @ DIGI Toolz Box**
 
 **CMO & Front-end Developer · Co-founder @ DIGI Uplift NE**
 
